@@ -22,21 +22,21 @@
 
 ## 📂 Projects
 
-### 🔹 FlashX (Main Project)
-- Developed a Java-based application using OOP concepts
-- Features: Fast performance, user-friendly interface
-- Tech Stack: Java
+##FlashX– Cross-Platform Serverless Instant Messenger (Ongoing)
+Built a high-performance, cross-platform instant messaging app using a serverless architecture powered by Firebase.
+Designed for both web and mobile, it offers real-time chat, media sharing, and push notifications without the need
+for dedicated servers. The project demonstrates strong skills in full-stack development, cloud technologies, and
+scalable real-time communication systems.
 
-## Animal Face Detection & Danger Level Prediction (Completed)
+##Animal Face Detection & Danger Level Prediction (Completed)
 Built a computer vision system that detects animal faces and classifies them as domestic or wild. Implemented
 ML-based danger level prediction based on facial characteristics of animals. Designed an audio alert (beep) warning
 system for high-risk animal detection. Applied image processing and machine learning techniques for real-time
-analysis
+analysis.
 
-### 🔹 Calculator App
-- Basic calculator built using Java
-- Performs arithmetic operations
-
+##Online Shopping Website (Completed)
+Front-End Developer for an online shopping website. Designed and developed a fully functional e-commerce website
+with a user-friendly interface, leveraging HTML, CSS, and JavaScript.
 ---
 
 ## 🏆 Achievements
