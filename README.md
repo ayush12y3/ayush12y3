@@ -7,7 +7,7 @@
 - 🎓 B.Tech Student (Computer Science)
 - 💻 Passionate about Java Development and Problem Solving
 - 🔍 Currently preparing for placements (TCS, Infosys, etc.)
-- 📈 Solved 100+ problems on LeetCode
+- 📈 Solved 300+ problems on LeetCode
 - 🌱 Learning Data Structures & Algorithms
 
 ---
