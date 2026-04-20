@@ -47,7 +47,7 @@ with a user-friendly interface, leveraging HTML, CSS, and JavaScript.
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/ayushyadav01
+- 💼 LinkedIn: https://linkedin.com/in/ayushyadav023
 - 📧 Email: your-ayush12y3@gmail.com
 
 ---
