@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Yadav
+# Hi , I'm Ayush Yadav
 
 ## About Me
 
