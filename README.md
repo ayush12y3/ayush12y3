@@ -126,30 +126,6 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayush12y3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush12y3&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🐍 Contribution Game
-
-> Watch the snake travel through your GitHub contribution graph 🐍
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush12y3/ayush12y3/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
