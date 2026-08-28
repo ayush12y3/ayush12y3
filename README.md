@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AYUSH%20YADAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/](https://raw.githubusercontent.com/ayush12y3/local-ai-cli-ollama/main/README-banner.png?utm_source=chatgpt.com)>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,50:203A43,100:2C5364&height=220&section=header&text=AYUSH%20YADAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 <h2>👋 Hi, I'm Ayush Yadav</h2>
 
 <p>
