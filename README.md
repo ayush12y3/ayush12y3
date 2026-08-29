@@ -108,27 +108,39 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 
 
+
+
 ## 🧠 Coding Journey
 
 <p align="center">
+
   <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 450+ Problems"/>
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70" height="70" alt="LeetCode Logo"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="60" alt="LeetCode"/>
-  </a>
+  <b>💻 Competitive Programming & Problem Solving</b>
 </p>
 
 <p align="center">
-  <b>Data Structures • Algorithms • OOP • DBMS • Problem Solving</b>
+  <img src="https://img.shields.io/badge/Data%20Structures-✓-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-✓-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-✓-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-✓-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-✓-3178C6?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://img.shields.io/badge/🟠%20Visit%20My%20LeetCode-FFA116?style=for-the-badge&logoColor=white" alt="Visit LeetCode"/>
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-%E2%86%92%20Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile"/>
   </a>
 </p>
 
