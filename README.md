@@ -1,11 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ayush12y3/ayush12y3/main/.github/assets/developer-banner.svg"
-    width="100%"
-    alt="Ayush Yadav Developer Banner"
-  />
+  <img src="https://raw.githubusercontent.com/ayush12y3/ayush12y3/main/.github/.github/assets/developer-banner.svg"
+       width="100%"
+       alt="Ayush Yadav Developer Banner">
 </p>
 <p>
   <b>Computer Science Engineering Undergraduate • Java • DSA • AI/ML • Full-Stack</b>
