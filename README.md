@@ -1,9 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="./.github/assets/developer-banner.svg"
+  <img src="https://raw.githubusercontent.com/ayush12y3/ayush12y3/main/.github/assets/developer-banner.svg"
        width="100%"
-       alt="Ayush Yadav Developer Banner"/>
+       alt="Ayush Yadav Developer Banner">
 </p>
 
 <p>
