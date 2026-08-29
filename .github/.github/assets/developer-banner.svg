@@ -1,0 +1,610 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <!-- Background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#03070b"/>
+    <stop offset="50%" stop-color="#0a1118"/>
+    <stop offset="100%" stop-color="#101b24"/>
+  </linearGradient>
+
+  <!-- Green -->
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ff9c"/>
+    <stop offset="100%" stop-color="#00c978"/>
+  </linearGradient>
+
+  <!-- Blue -->
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00d9ff"/>
+    <stop offset="100%" stop-color="#1479ff"/>
+  </linearGradient>
+
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Grid -->
+  <pattern id="grid" width="40" height="40"
+           patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40"
+          fill="none"
+          stroke="#1b2935"
+          stroke-width="1"/>
+  </pattern>
+
+</defs>
+
+
+<!-- ================================================= -->
+<!-- BACKGROUND -->
+<!-- ================================================= -->
+
+<rect width="1200"
+      height="380"
+      rx="18"
+      fill="url(#bg)"/>
+
+<rect width="1200"
+      height="380"
+      rx="18"
+      fill="url(#grid)"
+      opacity="0.35"/>
+
+
+<!-- ================================================= -->
+<!-- TERMINAL TOP BAR -->
+<!-- ================================================= -->
+
+<rect width="1200"
+      height="44"
+      rx="18"
+      fill="#0d151d"/>
+
+<rect y="25"
+      width="1200"
+      height="19"
+      fill="#0d151d"/>
+
+<!-- Terminal buttons -->
+
+<circle cx="26" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="47" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="68" cy="22" r="6" fill="#27c93f"/>
+
+<text x="600"
+      y="27"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="13"
+      fill="#64748b">
+
+ayush@developer: ~/portfolio
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- LEFT TERMINAL WINDOW -->
+<!-- ================================================= -->
+
+<rect x="45"
+      y="70"
+      width="500"
+      height="250"
+      rx="12"
+      fill="#05090d"
+      stroke="#22313c"
+      stroke-width="2"/>
+
+<!-- Terminal header -->
+
+<rect x="45"
+      y="70"
+      width="500"
+      height="38"
+      rx="12"
+      fill="#0d161e"/>
+
+<rect x="45"
+      y="94"
+      width="500"
+      height="14"
+      fill="#0d161e"/>
+
+<circle cx="66" cy="89" r="5"
+        fill="#ff5f56"/>
+
+<circle cx="83" cy="89" r="5"
+        fill="#ffbd2e"/>
+
+<circle cx="100" cy="89" r="5"
+        fill="#27c93f"/>
+
+<text x="295"
+      y="94"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="11"
+      fill="#64748b">
+
+terminal
+
+</text>
+
+
+<!-- Terminal commands -->
+
+<text x="70"
+      y="137"
+      font-family="monospace"
+      font-size="15"
+      fill="#00ff9c">
+
+ayush@github:~$
+
+</text>
+
+<text x="225"
+      y="137"
+      font-family="monospace"
+      font-size="15"
+      fill="#f1f5f9">
+
+whoami
+
+</text>
+
+
+<text x="70"
+      y="163"
+      font-family="monospace"
+      font-size="14"
+      fill="#7dd3fc">
+
+&gt; Ayush Yadav
+
+</text>
+
+
+<text x="70"
+      y="190"
+      font-family="monospace"
+      font-size="15"
+      fill="#00ff9c">
+
+ayush@github:~$
+
+</text>
+
+<text x="225"
+      y="190"
+      font-family="monospace"
+      font-size="15"
+      fill="#f1f5f9">
+
+cat skills.txt
+
+</text>
+
+
+<!-- Skills -->
+
+<text x="70"
+      y="217"
+      font-family="monospace"
+      font-size="14"
+      fill="#a78bfa">
+
+Java
+
+</text>
+
+<text x="130"
+      y="217"
+      font-family="monospace"
+      font-size="14"
+      fill="#475569">
+
+•
+
+</text>
+
+<text x="150"
+      y="217"
+      font-family="monospace"
+      font-size="14"
+      fill="#a78bfa">
+
+DSA
+
+</text>
+
+<text x="205"
+      y="217"
+      font-family="monospace"
+      font-size="14"
+      fill="#475569">
+
+•
+
+</text>
+
+<text x="225"
+      y="217"
+      font-family="monospace"
+      font-size="14"
+      fill="#a78bfa">
+
+AI/ML
+
+</text>
+
+
+<text x="70"
+      y="244"
+      font-family="monospace"
+      font-size="14"
+      fill="#a78bfa">
+
+React.js
+
+</text>
+
+<text x="150"
+      y="244"
+      font-family="monospace"
+      font-size="14"
+      fill="#475569">
+
+•
+
+</text>
+
+<text x="170"
+      y="244"
+      font-family="monospace"
+      font-size="14"
+      fill="#a78bfa">
+
+Node.js
+
+</text>
+
+<text x="250"
+      y="244"
+      font-family="monospace"
+      font-size="14"
+      fill="#475569">
+
+•
+
+</text>
+
+<text x="270"
+      y="244"
+      font-family="monospace"
+      font-size="14"
+      fill="#a78bfa">
+
+SQL
+
+</text>
+
+
+<!-- Final command -->
+
+<text x="70"
+      y="279"
+      font-family="monospace"
+      font-size="15"
+      fill="#00ff9c">
+
+ayush@github:~$
+
+</text>
+
+<!-- Cursor -->
+
+<rect x="225"
+      y="266"
+      width="9"
+      height="18"
+      fill="#00ff9c"
+      filter="url(#glow)"/>
+
+
+<!-- ================================================= -->
+<!-- RIGHT DEVELOPER SECTION -->
+<!-- ================================================= -->
+
+<!-- Coding symbols -->
+
+<text x="590"
+      y="120"
+      font-family="monospace"
+      font-size="48"
+      font-weight="bold"
+      fill="#00d9ff"
+      opacity="0.75">
+
+&lt;/
+
+</text>
+
+<text x="1015"
+      y="120"
+      font-family="monospace"
+      font-size="48"
+      font-weight="bold"
+      fill="#00d9ff"
+      opacity="0.75">
+
+/&gt;
+
+</text>
+
+
+<!-- Name -->
+
+<text x="600"
+      y="170"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="43"
+      font-weight="700"
+      letter-spacing="4"
+      fill="#ffffff">
+
+AYUSH YADAV
+
+</text>
+
+
+<!-- Green line -->
+
+<rect x="603"
+      y="188"
+      width="315"
+      height="3"
+      rx="2"
+      fill="url(#green)"
+      filter="url(#glow)"/>
+
+
+<!-- Education -->
+
+<text x="603"
+      y="220"
+      font-family="monospace"
+      font-size="15"
+      fill="#cbd5e1">
+
+Computer Science Engineering
+
+</text>
+
+
+<!-- Role -->
+
+<text x="603"
+      y="248"
+      font-family="monospace"
+      font-size="16"
+      fill="#00ff9c">
+
+Software Developer
+
+</text>
+
+
+<!-- Tech stack -->
+
+<text x="603"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#64748b">
+
+JAVA
+
+</text>
+
+<text x="650"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+//
+
+</text>
+
+<text x="680"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#64748b">
+
+DSA
+
+</text>
+
+<text x="720"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+//
+
+</text>
+
+<text x="750"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#64748b">
+
+AI/ML
+
+</text>
+
+<text x="805"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+//
+
+</text>
+
+<text x="835"
+      y="286"
+      font-family="monospace"
+      font-size="13"
+      fill="#64748b">
+
+FULL STACK
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- GIT BRANCH -->
+<!-- ================================================= -->
+
+<line x1="605"
+      y1="320"
+      x2="920"
+      y2="320"
+      stroke="#263641"
+      stroke-width="2"/>
+
+
+<circle cx="620"
+        cy="320"
+        r="6"
+        fill="#00ff9c"
+        filter="url(#glow)"/>
+
+<circle cx="760"
+        cy="320"
+        r="6"
+        fill="#00d9ff"
+        filter="url(#glow)"/>
+
+<circle cx="915"
+        cy="320"
+        r="6"
+        fill="#a78bfa"
+        filter="url(#glow)"/>
+
+
+<!-- Branch labels -->
+
+<text x="605"
+      y="348"
+      font-family="monospace"
+      font-size="11"
+      fill="#526474">
+
+BUILD
+
+</text>
+
+<text x="745"
+      y="348"
+      font-family="monospace"
+      font-size="11"
+      fill="#526474">
+
+CODE
+
+</text>
+
+<text x="885"
+      y="348"
+      font-family="monospace"
+      font-size="11"
+      fill="#526474">
+
+REPEAT
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- BINARY DECORATION -->
+<!-- ================================================= -->
+
+<text x="1090"
+      y="165"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+01
+
+</text>
+
+<text x="1090"
+      y="185"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+10
+
+</text>
+
+<text x="1090"
+      y="205"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+01
+
+</text>
+
+<text x="1090"
+      y="225"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+11
+
+</text>
+
+<text x="1090"
+      y="245"
+      font-family="monospace"
+      font-size="13"
+      fill="#334155">
+
+00
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- BOTTOM GLOW -->
+<!-- ================================================= -->
+
+<rect y="376"
+      width="1200"
+      height="4"
+      rx="2"
+      fill="url(#green)"
+      filter="url(#glow)"/>
+
+</svg>
