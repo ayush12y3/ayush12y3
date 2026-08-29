@@ -106,44 +106,87 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 ---
 
-
-
-
-
 ## 🧠 Coding Journey
 
 <p align="center">
-
   <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-  </a>
-
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70" height="70" alt="LeetCode Logo"/>
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 450+ Problems"/>
   </a>
 </p>
 
 <p align="center">
-  <b>💻 Competitive Programming & Problem Solving</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-✓-3178C6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-✓-3178C6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-✓-3178C6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-✓-3178C6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-✓-3178C6?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-%E2%86%92%20Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         width="75"
+         height="75"
+         alt="LeetCode Logo"/>
   </a>
 </p>
 
+<p align="center">
+  <b>💻 Competitive Programming • DSA • Problem Solving</b>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/problem-list/arrays/" target="_blank">
+    <img src="https://img.shields.io/badge/📦%20Data%20Structures-FFA116?style=for-the-badge" alt="Data Structures"/>
+  </a>
+
+  <a href="https://leetcode.com/problem-list/algorithms/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡%20Algorithms-3776AB?style=for-the-badge" alt="Algorithms"/>
+  </a>
+
+  <a href="https://leetcode.com/search/?q=OOP" target="_blank">
+    <img src="https://img.shields.io/badge/🧩%20OOP-8A2BE2?style=for-the-badge" alt="OOP"/>
+  </a>
+
+  <a href="https://leetcode.com/problem-list/database/" target="_blank">
+    <img src="https://img.shields.io/badge/🗄️%20DBMS-00758F?style=for-the-badge" alt="DBMS"/>
+  </a>
+
+  <a href="https://leetcode.com/problem-list/" target="_blank">
+    <img src="https://img.shields.io/badge/🎯%20Problem%20Solving-2EA44F?style=for-the-badge" alt="Problem Solving"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/problems/two-sum/" target="_blank">
+    <img src="https://img.shields.io/badge/🔢%20Arrays%20%26%20Hashing-FFA116?style=flat-square" alt="Arrays"/>
+  </a>
+
+  <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Linked%20List-3178C6?style=flat-square" alt="Linked List"/>
+  </a>
+
+  <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">
+    <img src="https://img.shields.io/badge/📚%20Stack%20%26%20Queue-8A2BE2?style=flat-square" alt="Stack Queue"/>
+  </a>
+
+  <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" target="_blank">
+    <img src="https://img.shields.io/badge/🌳%20Trees-2EA44F?style=flat-square" alt="Trees"/>
+  </a>
+
+  <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">
+    <img src="https://img.shields.io/badge/🕸️%20Graphs-E34F26?style=flat-square" alt="Graphs"/>
+  </a>
+
+  <a href="https://leetcode.com/problems/coin-change/" target="_blank">
+    <img src="https://img.shields.io/badge/🧠%20Dynamic%20Programming-6F42C1?style=flat-square" alt="Dynamic Programming"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
+    <img src="https://img.shields.io/badge/🟠%20VIEW%20MY%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+         alt="View My LeetCode Profile"/>
+  </a>
+</p>
 
 ---
 
