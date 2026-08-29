@@ -112,10 +112,25 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 <p align="center">
   <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-450%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 450+ Problems"/>
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 450+ Problems"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="60" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Data Structures • Algorithms • OOP • DBMS • Problem Solving</b>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
+    <img src="https://img.shields.io/badge/🟠%20Visit%20My%20LeetCode-FFA116?style=for-the-badge&logoColor=white" alt="Visit LeetCode"/>
+  </a>
+</p>
 
 
 ---
