@@ -42,12 +42,7 @@ I'm a **B.Tech Computer Science Engineering student (2027)** who enjoys turning 
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,react,nodejs,mysql,firebase,flutter,git,github,postman,vscode,docker,tensorflow" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20OpenCV-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20Firebase-yellow?style=flat-square"/>
-</p>
+
 
 ---
 
