@@ -153,33 +153,9 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 <br>
 
-<p align="center">
-  <a href="https://leetcode.com/problems/two-sum/" target="_blank">
-    <img src="https://img.shields.io/badge/🔢%20Arrays%20%26%20Hashing-FFA116?style=flat-square" alt="Arrays"/>
-  </a>
 
-  <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Linked%20List-3178C6?style=flat-square" alt="Linked List"/>
-  </a>
 
-  <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">
-    <img src="https://img.shields.io/badge/📚%20Stack%20%26%20Queue-8A2BE2?style=flat-square" alt="Stack Queue"/>
-  </a>
 
-  <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/" target="_blank">
-    <img src="https://img.shields.io/badge/🌳%20Trees-2EA44F?style=flat-square" alt="Trees"/>
-  </a>
-
-  <a href="https://leetcode.com/problems/number-of-islands/" target="_blank">
-    <img src="https://img.shields.io/badge/🕸️%20Graphs-E34F26?style=flat-square" alt="Graphs"/>
-  </a>
-
-  <a href="https://leetcode.com/problems/coin-change/" target="_blank">
-    <img src="https://img.shields.io/badge/🧠%20Dynamic%20Programming-6F42C1?style=flat-square" alt="Dynamic Programming"/>
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
