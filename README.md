@@ -106,7 +106,7 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 ---
 
-## 🧠 Coding Journey
+
 
 ## 🧠 Coding Journey
 
@@ -116,13 +116,7 @@ Interactive AI assistant with a responsive chat interface, application state man
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-✓-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithms-✓-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OOP-✓-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DBMS-✓-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-✓-blue?style=flat-square"/>
-</p>
+
 
 ---
 
