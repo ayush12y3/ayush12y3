@@ -6,7 +6,7 @@
     width="100%"
     alt="Ayush Yadav Developer Banner"
   />
-</p> 
+</p>  
 
 <p>
   <b>Computer Science Engineering Undergraduate • Java • DSA • AI/ML • Full-Stack</b>
