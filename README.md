@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,50:203A43,100:2C5364&height=220&section=header&text=AYUSH%20YADAV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
-<h2>👋 Hi, I'm Ayush Yadav</h2>
+<p align="center">
+  <img src="./.github/assets/developer-banner.svg"
+       width="100%"
+       alt="Ayush Yadav Developer Banner"/>
+</p>
 
 <p>
   <b>Computer Science Engineering Undergraduate • Java • DSA • AI/ML • Full-Stack</b>
@@ -34,14 +37,15 @@ I'm a **B.Tech Computer Science Engineering student (2027)** who enjoys turning 
 - ☁️ Interested in building reliable and scalable applications
 - 🎯 Goal: grow as a **Software Development Engineer**
 
+
+
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,react,nodejs,mysql,firebase,flutter,git,github,postman,vscode,docker,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,react,nodejs,mysql,firebase,git,github,vscode" />
 </p>
-
 
 
 ---
