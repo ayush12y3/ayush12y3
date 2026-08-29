@@ -30,10 +30,7 @@ stroke-width="1"/>
 
 </defs>
 
-
-<!-- ================================================= -->
 <!-- BACKGROUND -->
-<!-- ================================================= -->
 
 <rect width="1200"
 height="480"
@@ -47,9 +44,7 @@ fill="url(#grid)"
 opacity="0.30"/>
 
 
-<!-- ================================================= -->
 <!-- TOP TERMINAL BAR -->
-<!-- ================================================= -->
 
 <rect width="1200"
 height="50"
@@ -71,15 +66,11 @@ text-anchor="middle"
 font-family="monospace"
 font-size="13"
 fill="#64748B">
-
 ayush@developer: ~/portfolio
-
 </text>
 
 
-<!-- ================================================= -->
 <!-- LEFT TERMINAL -->
-<!-- ================================================= -->
 
 <rect x="45"
 y="72"
@@ -113,22 +104,16 @@ text-anchor="middle"
 font-family="monospace"
 font-size="11"
 fill="#64748B">
-
 developer-terminal
-
 </text>
 
-
-<!-- COMMAND -->
 
 <text x="70"
 y="143"
 font-family="monospace"
 font-size="15"
 fill="#00FF9C">
-
 ayush@github:~$
-
 </text>
 
 <text x="235"
@@ -136,35 +121,24 @@ y="143"
 font-family="monospace"
 font-size="15"
 fill="#FFFFFF">
-
 who AM i
-
 </text>
-
-
-<!-- OUTPUT -->
 
 <text x="70"
 y="171"
 font-family="monospace"
 font-size="15"
 fill="#7DD3FC">
-
 &gt; Ayush Yadav
-
 </text>
 
-
-<!-- COMMAND -->
 
 <text x="70"
 y="201"
 font-family="monospace"
 font-size="15"
 fill="#00FF9C">
-
 ayush@github:~$
-
 </text>
 
 <text x="235"
@@ -172,22 +146,16 @@ y="201"
 font-family="monospace"
 font-size="15"
 fill="#FFFFFF">
-
 cat skills.txt
-
 </text>
 
-
-<!-- SKILLS -->
 
 <text x="70"
 y="231"
 font-family="monospace"
 font-size="14"
 fill="#A78BFA">
-
 Java
-
 </text>
 
 <text x="125"
@@ -195,9 +163,7 @@ y="231"
 font-family="monospace"
 font-size="14"
 fill="#475569">
-
 •
-
 </text>
 
 <text x="145"
@@ -205,9 +171,7 @@ y="231"
 font-family="monospace"
 font-size="14"
 fill="#A78BFA">
-
 DSA
-
 </text>
 
 <text x="195"
@@ -215,9 +179,7 @@ y="231"
 font-family="monospace"
 font-size="14"
 fill="#475569">
-
 •
-
 </text>
 
 <text x="215"
@@ -225,9 +187,7 @@ y="231"
 font-family="monospace"
 font-size="14"
 fill="#A78BFA">
-
 AI/ML
-
 </text>
 
 
@@ -236,9 +196,7 @@ y="259"
 font-family="monospace"
 font-size="14"
 fill="#A78BFA">
-
 React.js
-
 </text>
 
 <text x="150"
@@ -246,9 +204,7 @@ y="259"
 font-family="monospace"
 font-size="14"
 fill="#475569">
-
 •
-
 </text>
 
 <text x="170"
@@ -256,9 +212,7 @@ y="259"
 font-family="monospace"
 font-size="14"
 fill="#A78BFA">
-
 Node.js
-
 </text>
 
 <text x="255"
@@ -266,9 +220,7 @@ y="259"
 font-family="monospace"
 font-size="14"
 fill="#475569">
-
 •
-
 </text>
 
 <text x="275"
@@ -276,22 +228,16 @@ y="259"
 font-family="monospace"
 font-size="14"
 fill="#A78BFA">
-
 SQL
-
 </text>
 
-
-<!-- FINAL COMMAND -->
 
 <text x="70"
 y="295"
 font-family="monospace"
 font-size="15"
 fill="#00FF9C">
-
 ayush@github:~$
-
 </text>
 
 <text x="235"
@@ -299,9 +245,7 @@ y="295"
 font-family="monospace"
 font-size="15"
 fill="#FFFFFF">
-
 ./build_future.sh
-
 </text>
 
 <rect x="70"
@@ -311,9 +255,7 @@ height="19"
 fill="#00FF9C"/>
 
 
-<!-- ================================================= -->
 <!-- RIGHT PROFILE -->
-<!-- ================================================= -->
 
 <text x="585"
 y="115"
@@ -321,9 +263,7 @@ font-family="monospace"
 font-size="48"
 font-weight="bold"
 fill="#00D9FF">
-
 &lt;/
-
 </text>
 
 <text x="1040"
@@ -332,9 +272,7 @@ font-family="monospace"
 font-size="48"
 font-weight="bold"
 fill="#00D9FF">
-
 /&gt;
-
 </text>
 
 
@@ -345,11 +283,8 @@ font-size="42"
 font-weight="bold"
 letter-spacing="4"
 fill="#FFFFFF">
-
 AYUSH YADAV
-
 </text>
-
 
 <rect x="603"
 y="183"
@@ -358,46 +293,40 @@ height="3"
 rx="2"
 fill="url(#green)"/>
 
-
 <text x="603"
 y="215"
 font-family="monospace"
 font-size="15"
 fill="#CBD5E1">
-
 Computer Science Engineering
-
 </text>
-
 
 <text x="603"
 y="243"
 font-family="monospace"
 font-size="16"
 fill="#00FF9C">
-
 Software Developer
-
 </text>
-
 
 <text x="603"
 y="271"
 font-family="monospace"
 font-size="13"
 fill="#64748B">
-
 JAVA // DSA // AI/ML // FULL STACK
-
 </text>
 
 
 <!-- ================================================= -->
-<!-- SOCIAL PROFILE CARDS -->
+<!-- CLICKABLE SOCIAL PROFILE CARDS -->
 <!-- ================================================= -->
 
 
-<!-- GITHUB CARD -->
+<!-- ================= GITHUB ================= -->
+
+<a href="https://github.com/ayush12y3"
+   target="_blank">
 
 <rect x="45"
 y="360"
@@ -405,11 +334,10 @@ width="340"
 height="65"
 rx="12"
 fill="#0D151C"
-stroke="#263640"
+stroke="#00FF9C"
 stroke-width="2"/>
 
-
-<!-- GitHub actual mark -->
+<!-- GitHub Logo -->
 
 <g transform="translate(62 374) scale(1.55)">
 
@@ -443,15 +371,12 @@ c0-6.627-5.373-12-12-12z"/>
 
 </g>
 
-
 <text x="105"
 y="386"
 font-family="monospace"
 font-size="11"
 fill="#64748B">
-
 GITHUB
-
 </text>
 
 <text x="105"
@@ -460,13 +385,27 @@ font-family="monospace"
 font-size="15"
 font-weight="bold"
 fill="#FFFFFF">
-
 ayush12y3
-
 </text>
 
+<!-- Arrow -->
 
-<!-- LEETCODE CARD -->
+<text x="350"
+y="402"
+font-family="monospace"
+font-size="25"
+font-weight="bold"
+fill="#00FF9C">
+&gt;
+</text>
+
+</a>
+
+
+<!-- ================= LEETCODE ================= -->
+
+<a href="https://leetcode.com/u/__ayushhh07__/"
+   target="_blank">
 
 <rect x="430"
 y="360"
@@ -474,11 +413,11 @@ width="340"
 height="65"
 rx="12"
 fill="#0D151C"
-stroke="#263640"
+stroke="#FFA116"
 stroke-width="2"/>
 
 
-<!-- LeetCode orange logo -->
+<!-- LeetCode Logo -->
 
 <g transform="translate(448 373) scale(1.6)">
 
@@ -498,7 +437,6 @@ c.9-.3 1.4-1.2 1.1-2.1
 c-.3-.9-1.2-1.4-2.1-1.1Z"
 fill="#FFA116"/>
 
-
 <path
 d="M16.2 6.3
 c-.6-.6-1.6-.6-2.2 0
@@ -517,15 +455,12 @@ fill="#FFFFFF"/>
 
 </g>
 
-
 <text x="500"
 y="386"
 font-family="monospace"
 font-size="11"
 fill="#64748B">
-
 LEETCODE
-
 </text>
 
 <text x="500"
@@ -534,13 +469,27 @@ font-family="monospace"
 font-size="14"
 font-weight="bold"
 fill="#FFFFFF">
-
 __ayushhh07__
-
 </text>
 
+<!-- Arrow -->
 
-<!-- LINKEDIN CARD -->
+<text x="735"
+y="402"
+font-family="monospace"
+font-size="25"
+font-weight="bold"
+fill="#FFA116">
+&gt;
+</text>
+
+</a>
+
+
+<!-- ================= LINKEDIN ================= -->
+
+<a href="https://www.linkedin.com/in/ayushyadav023/"
+   target="_blank">
 
 <rect x="815"
 y="360"
@@ -548,11 +497,11 @@ width="340"
 height="65"
 rx="12"
 fill="#0D151C"
-stroke="#263640"
+stroke="#0A66C2"
 stroke-width="2"/>
 
 
-<!-- LinkedIn logo -->
+<!-- LinkedIn Logo -->
 
 <rect x="835"
 y="375"
@@ -568,9 +517,7 @@ font-family="Arial, Helvetica, sans-serif"
 font-size="17"
 font-weight="bold"
 fill="#FFFFFF">
-
 in
-
 </text>
 
 
@@ -579,9 +526,7 @@ y="386"
 font-family="monospace"
 font-size="11"
 fill="#64748B">
-
 LINKEDIN
-
 </text>
 
 <text x="885"
@@ -590,15 +535,24 @@ font-family="monospace"
 font-size="14"
 font-weight="bold"
 fill="#FFFFFF">
-
 AYUSH YADAV
-
 </text>
 
+<!-- Arrow -->
 
-<!-- ================================================= -->
+<text x="1120"
+y="402"
+font-family="monospace"
+font-size="25"
+font-weight="bold"
+fill="#0A66C2">
+&gt;
+</text>
+
+</a>
+
+
 <!-- BOTTOM ACTIVITY -->
-<!-- ================================================= -->
 
 <line x1="45"
 y1="450"
@@ -606,7 +560,6 @@ x2="1155"
 y2="450"
 stroke="#263640"
 stroke-width="2"/>
-
 
 <circle cx="200"
 cy="450"
