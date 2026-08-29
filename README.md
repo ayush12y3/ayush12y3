@@ -113,15 +113,21 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 ## 🧠 Coding Journey
 
-<div align="center">
+## 🧠 Coding Journey
 
-<img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<p align="center">
+  <a href="https://leetcode.com/u/__ayushhh07__/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-450%2B%20PROBLEMS-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 450+ Problems"/>
+  </a>
+</p>
 
-<br/><br/>
-
-`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `Problem Solving`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-✓-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-✓-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OOP-✓-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DBMS-✓-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-✓-blue?style=flat-square"/>
+</p>
 
 ---
 
