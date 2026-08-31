@@ -10,6 +10,9 @@
 </p>
 
 <p>
+  <a href="https://ayush12y3.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-000000?style=for-the-badge" />
+  </a>
   <a href="mailto:ayush12y3@gmail.com">
     <img src="https://img.shields.io/badge/Email-ayush12y3-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
