@@ -172,6 +172,76 @@ Interactive AI assistant with a responsive chat interface, application state man
 
 ---
 
+## 🌐 My Portfolio
+
+<div align="center">
+
+<table>
+<tr>
+<td width="750" align="center">
+
+<h2>🚀 Welcome to My Portfolio</h2>
+
+<h3>Ayush Yadav</h3>
+
+<p>
+<code>Software Developer</code> •
+<code>AI Enthusiast</code> •
+<code>Problem Solver</code>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 💻 BUILD
+
+Turning ideas into real-world software
+
+</td>
+
+<td align="center">
+
+### 🤖 EXPLORE
+
+AI • Technology • Innovation
+
+</td>
+
+<td align="center">
+
+### 🚀 CREATE
+
+Projects that solve real problems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://ayush12y3.github.io/">
+<img src="https://img.shields.io/badge/🌐_VIEW_FULL_PORTFOLIO-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+`https://ayush12y3.github.io/`
+
+<br><br>
+
+**⚡ Code. Learn. Build. Repeat.**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 Certifications
 
 - ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
